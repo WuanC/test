@@ -2,6 +2,5 @@
 #include <iostream>
 #include <string>
 std::string In() {
-	return "test github Quan dep trai vkl
-		__ ";
+	return " Ngoc test git";
 }
